@@ -5,7 +5,7 @@ Esta es una implementación sencilla del juego **Whack A Mole** con JavaScript
 
 
 ## Tecnologías
-- **HTML5**: Estructura del CV.
+- **HTML5**: Estructura del juego.
 - **CSS3**: Estilos personalizados
 - **Javascript**: Funcionalidad del juego
 
